@@ -1,0 +1,833 @@
+nomor_perkara,atribut,nilai_atribut,halaman_pdf,extractor,reviewer,status_verifikasi
+160/Pid.Sus/2025/PN Jmr,nomor_perkara,160/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_01,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,tuntutan_bulan,84,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,vonis_bulan,84,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,denda,1000000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,barang_bukti,"2 klip sabu @0,08 gram	 1 klip sabu 0,06 gram	 1 HP Vivo Y16	 2 tabung centrifuge	 1 bungkus rokok Camel",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,nama_hakim,"Dina Pelita Asmara (Ketua)	 Desbertua Naibaho, Irwansyah (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,nama_jaksa,Natty Ayuningdiastuti Arif,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-06-04,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+160/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+160/Pid.Sus/2025/PN Jmr,catatan,Vonis: tanpa hak membeli Narkotika Gol I (dakwaan kesatu)	 residivis	 satu-satunya perkara dengan denda	 diputus sebelum UU 1/2026,-,Kelompok_UTS,,DIISI_MANUAL
+401/Pid.Sus/2025/PN Jmr,nomor_perkara,401/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_02,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (2) UU RI No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,tuntutan_bulan,84,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,vonis_bulan,60,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,denda,1000000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,subsidair_bulan,2,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,barang_bukti,"Sabu total 5,69 gram (bungkus rokok 4,40 g + lampu LED berisi klip + beberapa klip kecil)	 1 timbangan digital	 1 HP Infinix",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,nama_hakim,"I Gusti Ngurah Taruna W (Ketua)	 Aryo Widiatmoko, Amran S. Herman (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,nama_jaksa,Natty Ayuningdiastuti Arif,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-11-10,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+401/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+401/Pid.Sus/2025/PN Jmr,catatan,Berat > 5 gram	 jaksa menuntut Pasal 112 ayat (1),-,Kelompok_UTS,,DIISI_MANUAL
+439/Pid.Sus/2025/PN Jmr,nomor_perkara,439/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_03,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,tuntutan_bulan,84,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,vonis_bulan,48,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,denda,1000000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,barang_bukti,"1 klip sabu sekitar 0,12 gram	 HP Xiaomi Poco C65",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,nama_hakim,"Rudi Hartoyo (Ketua)	 I Gusti Ngurah Taruna W, Zamzam Ilmi (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,nama_jaksa,Gunawan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-11-11,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+439/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+439/Pid.Sus/2025/PN Jmr,catatan,"Jaksa menuntut Pasal 114 ayat (1) (dakwaan pertama, 7 th, subsidair 6 bln)	 hakim memutus dakwaan alternatif kedua (memiliki), subsidair 3 bln",-,Kelompok_UTS,,DIISI_MANUAL
+452/Pid.Sus/2025/PN Jmr,nomor_perkara,452/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_04,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,tuntutan_bulan,60,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,vonis_bulan,48,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,denda,800000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,barang_bukti,"1 klip sabu 0,14 gram	 bungkus permen Coffee Candy	 HP Oppo",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,nama_hakim,"Zamzam Ilmi (Ketua)	 I Gusti Ngurah Taruna W, Rudi Hartoyo (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,nama_jaksa,Anak Agung Gede Hendrawan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-11-11,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+452/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+452/Pid.Sus/2025/PN Jmr,catatan,Vonis: tanpa hak memiliki (dakwaan alternatif kedua),-,Kelompok_UTS,,DIISI_MANUAL
+445/Pid.Sus/2025/PN Jmr,nomor_perkara,445/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_05,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,pasal,Pasal 114 ayat (2) UU RI No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,tuntutan_bulan,84,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,vonis_bulan,76,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,denda,1000000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,subsidair_bulan,4,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,barang_bukti,"Sabu total 13,03 gram (6 klip dalam kotak rokok)	 2 timbangan digital	 HP Oppo",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,nama_hakim,"Desbertua Naibaho (Ketua)	 Dina Pelita Asmara, Irwansyah (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,nama_jaksa,Bambang Arif Susanto,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-11-12,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+445/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+445/Pid.Sus/2025/PN Jmr,catatan,"Vonis: menerima Narkotika Gol I > 5 gram (dakwaan kesatu)	 jaksa menuntut denda Rp1,3 miliar subsidair 6 bln	 vonis 6 th 4 bln",-,Kelompok_UTS,,DIISI_MANUAL
+438/Pid.Sus/2025/PN Jmr,nomor_perkara,438/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_06,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,tuntutan_bulan,72,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,vonis_bulan,48,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,denda,800000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,barang_bukti,"1 klip sabu 0,61 gram	 tisu	 celana	 HP Realme C35",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,nama_hakim,"Rudi Hartoyo (Ketua)	 I Gusti Ngurah Taruna W, Zamzam Ilmi (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,nama_jaksa,Natty Ayuningdiastuti Arif,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-11-18,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+438/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+438/Pid.Sus/2025/PN Jmr,catatan,Vonis: tanpa hak memiliki (dakwaan alternatif kedua),-,Kelompok_UTS,,DIISI_MANUAL
+407/Pid.Sus/2025/PN Jmr,nomor_perkara,407/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_07,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,pasal,Pasal 114 ayat (2) UU RI No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,tuntutan_bulan,108,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,vonis_bulan,90,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,denda,1000000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,barang_bukti,"Sabu total sekitar 214,09 gram (125,23+75,84+3,26+9,58+0,18)	 timbangan digital	 HP Oppo	 ATM BCA	 uang Rp8.000.000",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,nama_hakim,"Dina Pelita Asmara (Ketua)	 Desbertua Naibaho, Irwansyah (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,nama_jaksa,Adik Sri Sumarsih,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-11-19,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+407/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+407/Pid.Sus/2025/PN Jmr,catatan,Vonis: tanpa hak membeli Narkotika Gol I > 5 gram (dakwaan alternatif kedua)	 vonis 7 th 6 bln,-,Kelompok_UTS,,DIISI_MANUAL
+440/Pid.Sus/2024/PN Jmr,nomor_perkara,440/Pid.Sus/2024/PN Jmr,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,nama_terdakwa,Terdakwa_08,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,jenis_kejahatan,Narkotika,Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,tuntutan_bulan,60,Hal. 2,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,vonis_bulan,72,Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,denda,1000000000,Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,subsidair_bulan,3,Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,barang_bukti,"1 klip sabu 0,20 gram	 1 dos rokok Marlboro	 1 HP Oppo biru toska",Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,nama_hakim,"Dina Pelita Asmara (Ketua)	 Desbertua Naibaho, Irwansyah (Anggota)",Hal. 22,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,nama_jaksa,Apriani Candra Christina,Hal. 22,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,tanggal_putusan,2024-11-13,Hal. 22,Claude (dari PDF),,VERIFIED_PDF
+440/Pid.Sus/2024/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Claude (dari PDF),,DIISI_MANUAL
+440/Pid.Sus/2024/PN Jmr,catatan,"Perantara jual beli Narkotika Gol I (dakwaan alternatif kesatu)	 jaksa menuntut Pasal 112 ayat (1) 5 th, denda Rp800 juta subsidair 3 bln	 vonis 6 th	 musyawarah 11 Nov 2024, diucapkan 13 Nov 2024	 diputus tahun 2024 (sebelum perkara lain di CSV)",-,Claude (dari PDF),,DIISI_MANUAL
+446/Pid.Sus/2025/PN Jmr,nomor_perkara,446/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_09,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,tuntutan_bulan,96,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,vonis_bulan,78,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,denda,1000000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,barang_bukti,1 HP Oppo	 1 bong	 uang Rp35.000 (tanpa sabu disita),-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,nama_hakim,"Desbertua Naibaho (Ketua)	 Dina Pelita Asmara, Irwansyah (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,nama_jaksa,Adik Sri Sumarsih,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-11-19,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+446/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+446/Pid.Sus/2025/PN Jmr,catatan,"Perantara jual beli (dakwaan tunggal)	 jaksa menuntut subsidair 6 bln, vonis subsidair 3 bln	 vonis 6 th 6 bln",-,Kelompok_UTS,,DIISI_MANUAL
+427/Pid.Sus/2025/PN Jmr,nomor_perkara,427/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_10,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,pasal,Pasal 114 ayat (2) UU RI No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,tuntutan_bulan,132,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,vonis_bulan,114,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,denda,1000000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,subsidair_bulan,4,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,barang_bukti,"1 klip sabu sekitar 94,56 gram	 kardus coklat	 tisu	 sepeda motor Honda Beat P 5696 GG	 HP Samsung",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,nama_hakim,"Irwansyah (Ketua)	 Dina Pelita Asmara, Desbertua Naibaho (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,nama_jaksa,Gunawan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-11-26,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+427/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+427/Pid.Sus/2025/PN Jmr,catatan,Vonis: menerima/perantara jual beli > 5 gram (dakwaan alternatif kesatu)	 vonis 9 th 6 bln,-,Kelompok_UTS,,DIISI_MANUAL
+444/Pid.Sus/2025/PN Jmr,nomor_perkara,444/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_11,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009	 dan Pasal 435 UU No 17 Tahun 2023 (Kesehatan),-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,tuntutan_bulan,84,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,vonis_bulan,72,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,denda,800000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,barang_bukti,"Sabu 0,07 gram	 timbangan digital	 sekitar 9.735 butir obat putih berlogo Y + 988 butir obat kuning berlogo DMP	 HP Vivo",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,nama_hakim,"Rudi Hartoyo (Ketua)	 I Gusti Ngurah Taruna W, Zamzam Ilmi (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,nama_jaksa,Habi Burrohim,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-02,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+444/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+444/Pid.Sus/2025/PN Jmr,catatan,Dakwaan kumulatif: menguasai narkotika dan mengedarkan sediaan farmasi tidak memenuhi standar	 jaksa menuntut denda Rp1 miliar subsidair 6 bln,-,Kelompok_UTS,,DIISI_MANUAL
+454/Pid.Sus/2025/PN Jmr,nomor_perkara,454/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_12,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,tuntutan_bulan,84,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,vonis_bulan,78,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,denda,1000000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,subsidair_bulan,6,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,barang_bukti,"3 klip sabu total 1,10 gram (0,04+0,26+0,80)	 bungkus rokok Surya	 microtube	 selotip	 HP Realme",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,nama_hakim,"Amran S. Herman (Ketua)	 Aryo Widiatmoko, I Gusti Ngurah Taruna W (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,nama_jaksa,Fachrizal,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-08,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+454/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+454/Pid.Sus/2025/PN Jmr,catatan,Vonis: tanpa hak menyediakan Narkotika Gol I	 vonis 6 th 6 bln,-,Kelompok_UTS,,DIISI_MANUAL
+435/Pid.Sus/2025/PN Jmr,nomor_perkara,435/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_13,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,tuntutan_bulan,84,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,vonis_bulan,60,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,denda,1000000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,subsidair_bulan,2,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,barang_bukti,"3 klip sabu total 0,46 gram (0,28+0,12+0,06)	 celana panjang	 HP Oppo",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,nama_hakim,"Irwansyah (Ketua)	 Dina Pelita Asmara, Desbertua Naibaho (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,nama_jaksa,Luh Putu Denny W,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-10,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+435/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+435/Pid.Sus/2025/PN Jmr,catatan,"Perantara jual beli (dakwaan kesatu)	 tuntutan subsidair 5 bln, vonis subsidair 2 bln	 nama jaksa terpotong di dokumen",-,Kelompok_UTS,,DIISI_MANUAL
+460/Pid.Sus/2025/PN Jmr,nomor_perkara,460/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_14,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,pasal,Pasal 114 ayat (2) UU RI No 35 Tahun 2009 jo Pasal 132 ayat (1) UU No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,tuntutan_bulan,132,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,vonis_bulan,132,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,denda,1000000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,barang_bukti,"2 klip sabu total 79,84 gram (78,72+1,12)	 dompet	 timbangan digital	 bungkus rokok Surya	 HP Realme",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,nama_hakim,"Dina Pelita Asmara (Ketua)	 Desbertua Naibaho, Irwansyah (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,nama_jaksa,Rismaya Cobhita Arethusa,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-10,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+460/Pid.Sus/2025/PN Jmr,catatan,Terdakwa 1 (Riska Anastasia) dari 2 terdakwa	 permufakatan jahat perantara jual beli > 5 gram	 denda Rp1 miliar subsidair 3 bln (tuntutan subsidair 6 bln),-,Kelompok_UTS,,DIISI_MANUAL
+460/Pid.Sus/2025/PN Jmr,nomor_perkara,460/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_15,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,pasal,Pasal 114 ayat (2) UU RI No 35 Tahun 2009 jo Pasal 132 ayat (1) UU No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,tuntutan_bulan,96,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,vonis_bulan,96,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,denda,1000000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,barang_bukti,"2 klip sabu total 79,84 gram (78,72+1,12)	 dompet	 timbangan digital	 bungkus rokok Surya	 HP Realme",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,nama_hakim,"Dina Pelita Asmara (Ketua)	 Desbertua Naibaho, Irwansyah (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,nama_jaksa,Rismaya Cobhita Arethusa,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-10,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+460/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+460/Pid.Sus/2025/PN Jmr,catatan,Terdakwa 2 (Mustain) dari 2 terdakwa	 permufakatan jahat perantara jual beli > 5 gram	 denda Rp1 miliar subsidair 3 bln (tuntutan subsidair 6 bln),-,Kelompok_UTS,,DIISI_MANUAL
+451/Pid.Sus/2025/PN Jmr,nomor_perkara,451/Pid.Sus/2025/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_16,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (2) UU RI No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,tuntutan_bulan,114,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,vonis_bulan,102,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,denda,1000000000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,subsidair_bulan,4,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,barang_bukti,"10 klip sabu total 9,1 gram	 sedotan biru	 timbangan digital	 uang Rp200.000	 HP Oppo",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,nama_hakim,"I Gusti Ngurah Taruna W (Ketua)	 Aryo Widiatmoko, Amran S. Herman (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,nama_jaksa,Noviana Hermawati,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-15,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+451/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+451/Pid.Sus/2025/PN Jmr,catatan,"Berat > 5 gram	 tuntutan 9 th 6 bln dan subsidair 6 bln, vonis 8 th 6 bln dan subsidair 4 bln",-,Kelompok_UTS,,DIISI_MANUAL
+116/Pid.Sus/2026/PN Jmr,nomor_perkara,116/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+116/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_17,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+116/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+116/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (1) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026,Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+116/Pid.Sus/2026/PN Jmr,tuntutan_bulan,48,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+116/Pid.Sus/2026/PN Jmr,vonis_bulan,36,Hal. 22,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+116/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 22,Kelompok_UTS,,DIISI_MANUAL
+116/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 22,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+116/Pid.Sus/2026/PN Jmr,barang_bukti,"4 klip sabu (0,11+0,02+0,35 = 0,60 gram)	 1 pipet kaca berisi sabu 1,92 gram (kotor)	 1 HP Samsung Z Fold",Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+116/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 22,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+116/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+116/Pid.Sus/2026/PN Jmr,nama_hakim,"Ade Irma Susanti (Ketua)	 Rudi Hartoyo, Ratna Damayanti Wisudha (Anggota)",Hal. 23,Kelompok_UTS,,BELUM_DIVERIFIKASI
+116/Pid.Sus/2026/PN Jmr,nama_jaksa,Endah Puspitorini,Hal. 23,Kelompok_UTS,,BELUM_DIVERIFIKASI
+116/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-05-12,Hal. 23,Kelompok_UTS,,BELUM_DIVERIFIKASI
+116/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+116/Pid.Sus/2026/PN Jmr,catatan,"Vonis: tanpa hak menguasai Narkotika Gol I bukan tanaman (dakwaan kedua)	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+147/Pid.Sus/2026/PN Jmr,nomor_perkara,147/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+147/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_18,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+147/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 18,Kelompok_UTS,,BELUM_DIVERIFIKASI
+147/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009 jo UU No 1 Tahun 2026,Hal. 18,Kelompok_UTS,,BELUM_DIVERIFIKASI
+147/Pid.Sus/2026/PN Jmr,tuntutan_bulan,66,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+147/Pid.Sus/2026/PN Jmr,vonis_bulan,54,Hal. 18,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+147/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 18,Kelompok_UTS,,DIISI_MANUAL
+147/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 18,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+147/Pid.Sus/2026/PN Jmr,barang_bukti,"3 klip sabu total 0,16 gram (0,06+0,05+0,05)	 timbangan digital	 kotak cotton bud	 serokan plastik	 1 iPhone XR",Hal. 18,Kelompok_UTS,,BELUM_DIVERIFIKASI
+147/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 18,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+147/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+147/Pid.Sus/2026/PN Jmr,nama_hakim,"Irwansyah (Ketua)	 Dina Pelita Asmara, Desbertua Naibaho (Anggota)",Hal. 19,Kelompok_UTS,,BELUM_DIVERIFIKASI
+147/Pid.Sus/2026/PN Jmr,nama_jaksa,R. Yuri Andina Putra,Hal. 19,Kelompok_UTS,,BELUM_DIVERIFIKASI
+147/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-05-13,Hal. 19,Kelompok_UTS,,BELUM_DIVERIFIKASI
+147/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+147/Pid.Sus/2026/PN Jmr,catatan,"Perantara jual beli (dakwaan kesatu)	 tuntutan 5 th 6 bln, vonis 4 th 6 bln	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+177/Pid.Sus/2026/PN Jmr,nomor_perkara,177/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+177/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_19,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+177/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 25,Kelompok_UTS,,BELUM_DIVERIFIKASI
+177/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (1) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026,Hal. 25,Kelompok_UTS,,BELUM_DIVERIFIKASI
+177/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+177/Pid.Sus/2026/PN Jmr,vonis_bulan,72,Hal. 25,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+177/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 25,Kelompok_UTS,,DIISI_MANUAL
+177/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 25,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+177/Pid.Sus/2026/PN Jmr,barang_bukti,"1 klip sabu 0,104 gram	 1 HP Redmi	 1 sepeda motor Suzuki Shogun DK-8323-V",Hal. 25,Kelompok_UTS,,BELUM_DIVERIFIKASI
+177/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 25,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+177/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+177/Pid.Sus/2026/PN Jmr,nama_hakim,"I Gusti Ngurah Taruna W (Ketua)	 Aryo Widiatmoko, Amran S. Herman (Anggota)",Hal. 25,Kelompok_UTS,,BELUM_DIVERIFIKASI
+177/Pid.Sus/2026/PN Jmr,nama_jaksa,Natty Ayuningdiastuti Arif,Hal. 25,Kelompok_UTS,,BELUM_DIVERIFIKASI
+177/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-05-25,Hal. 25,Kelompok_UTS,,BELUM_DIVERIFIKASI
+177/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+177/Pid.Sus/2026/PN Jmr,catatan,"Vonis: tanpa hak menguasai Narkotika Gol I (dakwaan kedua)	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+236/Pid.Sus/2026/PN Jmr,nomor_perkara,236/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+236/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_20,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+236/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+236/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (2) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026,Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+236/Pid.Sus/2026/PN Jmr,tuntutan_bulan,96,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+236/Pid.Sus/2026/PN Jmr,vonis_bulan,63,Hal. 22,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+236/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 22,Kelompok_UTS,,DIISI_MANUAL
+236/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 22,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+236/Pid.Sus/2026/PN Jmr,barang_bukti,"3 klip sabu total 11,63 gram (9,12+2,11+0,40)	 1 timbangan digital	 2 bungkus klip plastik kecil	 1 HP Oppo",Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+236/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 22,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+236/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+236/Pid.Sus/2026/PN Jmr,nama_hakim,"A. A. Gd. Agung Parnata (Ketua)	 Zamzam Ilmi, Anton Saiful Rizal (Anggota)",Hal. 23,Kelompok_UTS,,BELUM_DIVERIFIKASI
+236/Pid.Sus/2026/PN Jmr,nama_jaksa,Adik Sri Sumarsih,Hal. 23,Kelompok_UTS,,BELUM_DIVERIFIKASI
+236/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-07-07,Hal. 23,Kelompok_UTS,,BELUM_DIVERIFIKASI
+236/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+236/Pid.Sus/2026/PN Jmr,catatan,"Berat > 5 gram	 masa pembantaran tidak dikurangkan dari pidana	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+212/Pid.Sus/2026/PN Jmr,nomor_perkara,212/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+212/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_21,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+212/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 24,Kelompok_UTS,,BELUM_DIVERIFIKASI
+212/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009 jo UU No 1 Tahun 2026,Hal. 24,Kelompok_UTS,,BELUM_DIVERIFIKASI
+212/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+212/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 24,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+212/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 24,Kelompok_UTS,,DIISI_MANUAL
+212/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 24,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+212/Pid.Sus/2026/PN Jmr,barang_bukti,"3 klip sabu total 1,26 gram (2x0,58 + 0,10)	 1 dompet	 1 tas	 1 HP Vivo Y21",Hal. 24,Kelompok_UTS,,BELUM_DIVERIFIKASI
+212/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 24,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+212/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+212/Pid.Sus/2026/PN Jmr,nama_hakim,"Irwansyah (Ketua)	 Dina Pelita Asmara, Desbertua Naibaho (Anggota)",Hal. 25,Kelompok_UTS,,BELUM_DIVERIFIKASI
+212/Pid.Sus/2026/PN Jmr,nama_jaksa,Adik Sri Sumarsih,Hal. 25,Kelompok_UTS,,BELUM_DIVERIFIKASI
+212/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-07-08,Hal. 25,Kelompok_UTS,,BELUM_DIVERIFIKASI
+212/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+212/Pid.Sus/2026/PN Jmr,catatan,"Jaksa menuntut dakwaan kedua (Pasal 609 ayat 1, 7 th)	 hakim memutus dakwaan kesatu (perantara jual beli)	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+227/Pid.Sus/2026/PN Jmr,nomor_perkara,227/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+227/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_22,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+227/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+227/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (1) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026,Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+227/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+227/Pid.Sus/2026/PN Jmr,vonis_bulan,72,Hal. 22,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+227/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 22,Kelompok_UTS,,DIISI_MANUAL
+227/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 22,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+227/Pid.Sus/2026/PN Jmr,barang_bukti,"22 klip sabu total 2,15 gram (19x0,09	 2x0,11	 1x0,22)	 1 HP Redmi	 1 timbangan digital	 1 bungkus rokok Gudang Baru",Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+227/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 22,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+227/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+227/Pid.Sus/2026/PN Jmr,nama_hakim,"Ni Wayan Wirawati (Ketua)	 Anton Saiful Rizal, Ratna Damayanti Wisudha (Anggota)",Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+227/Pid.Sus/2026/PN Jmr,nama_jaksa,Helmi Wahyu Utama,Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+227/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-07-08,Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+227/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+227/Pid.Sus/2026/PN Jmr,catatan,"Vonis: tanpa hak memiliki dan menyediakan Narkotika Gol I	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+226/Pid.Sus/2026/PN Jmr,nomor_perkara,226/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+226/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_23,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+226/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 23,Kelompok_UTS,,BELUM_DIVERIFIKASI
+226/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (1) UU No 1 Tahun 2023 (KUHP) jo UU No 1 Tahun 2026,Hal. 23,Kelompok_UTS,,BELUM_DIVERIFIKASI
+226/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+226/Pid.Sus/2026/PN Jmr,vonis_bulan,66,Hal. 23,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+226/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 23,Kelompok_UTS,,DIISI_MANUAL
+226/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 23,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+226/Pid.Sus/2026/PN Jmr,barang_bukti,"8 klip sabu total 1,00 gram (0,10 + 4x0,12 + 3x0,14)	 1 pack klip plastik	 1 timbangan digital	 1 HP Vivo Y19S",Hal. 23,Kelompok_UTS,,BELUM_DIVERIFIKASI
+226/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 23,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+226/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+226/Pid.Sus/2026/PN Jmr,nama_hakim,"Dina Pelita Asmara (Ketua)	 Irwansyah, Desbertua Naibaho (Anggota)",Hal. 24,Kelompok_UTS,,BELUM_DIVERIFIKASI
+226/Pid.Sus/2026/PN Jmr,nama_jaksa,Rismaya Cobhita Arethusa,Hal. 24,Kelompok_UTS,,BELUM_DIVERIFIKASI
+226/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-07-15,Hal. 24,Kelompok_UTS,,BELUM_DIVERIFIKASI
+226/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+226/Pid.Sus/2026/PN Jmr,catatan,"Vonis 5 th 6 bln	 dakwaan alternatif kedua	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+213/Pid.Sus/2026/PN Jmr,nomor_perkara,213/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+213/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_24,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+213/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 21,Kelompok_UTS,,BELUM_DIVERIFIKASI
+213/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (1) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026,Hal. 21,Kelompok_UTS,,BELUM_DIVERIFIKASI
+213/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+213/Pid.Sus/2026/PN Jmr,vonis_bulan,54,Hal. 21,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+213/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 21,Kelompok_UTS,,DIISI_MANUAL
+213/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 21,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+213/Pid.Sus/2026/PN Jmr,barang_bukti,"1 klip sabu 0,80 gram	 1 HP Oppo",Hal. 21,Kelompok_UTS,,BELUM_DIVERIFIKASI
+213/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 21,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+213/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+213/Pid.Sus/2026/PN Jmr,nama_hakim,"I Gusti Ngurah Taruna W (Ketua)	 Amran S. Herman, Aryo Widiatmoko (Anggota)",Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+213/Pid.Sus/2026/PN Jmr,nama_jaksa,Adik Sri Sumarsih,Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+213/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-07-20,Hal. 22,Kelompok_UTS,,BELUM_DIVERIFIKASI
+213/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+213/Pid.Sus/2026/PN Jmr,catatan,"Vonis 4 th 6 bln	 dakwaan kedua	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+214/Pid.Sus/2026/PN Jmr,nomor_perkara,214/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+214/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_25,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+214/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 24,Kelompok_UTS,,BELUM_DIVERIFIKASI
+214/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (2) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026,Hal. 24,Kelompok_UTS,,BELUM_DIVERIFIKASI
+214/Pid.Sus/2026/PN Jmr,tuntutan_bulan,96,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+214/Pid.Sus/2026/PN Jmr,vonis_bulan,63,Hal. 24,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+214/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 24,Kelompok_UTS,,DIISI_MANUAL
+214/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 24,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+214/Pid.Sus/2026/PN Jmr,barang_bukti,"3 klip sabu total 15,84 gram (0,98+7,42+7,44)	 1 timbangan digital	 1 HP Realme",Hal. 24,Kelompok_UTS,,BELUM_DIVERIFIKASI
+214/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 24,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+214/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+214/Pid.Sus/2026/PN Jmr,nama_hakim,"A. A. Gd. Agung Parnata (Ketua)	 Zamzam Ilmi, Anton Saiful Rizal (Anggota)",Hal. 25,Kelompok_UTS,,BELUM_DIVERIFIKASI
+214/Pid.Sus/2026/PN Jmr,nama_jaksa,Ida Hariyani,Hal. 25,Kelompok_UTS,,BELUM_DIVERIFIKASI
+214/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-07-30,Hal. 25,Kelompok_UTS,,BELUM_DIVERIFIKASI
+214/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+214/Pid.Sus/2026/PN Jmr,catatan,"Berat > 5 gram	 vonis 5 th 3 bln	 daftar anggota majelis di bagian amar tidak konsisten dengan bagian pembuka	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+239/Pid.Sus/2026/PN Jmr,nomor_perkara,239/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+239/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_26,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+239/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 32,Kelompok_UTS,,BELUM_DIVERIFIKASI
+239/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (1) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026,Hal. 32,Kelompok_UTS,,BELUM_DIVERIFIKASI
+239/Pid.Sus/2026/PN Jmr,tuntutan_bulan,78,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+239/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 32,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+239/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 32,Kelompok_UTS,,DIISI_MANUAL
+239/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 32,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+239/Pid.Sus/2026/PN Jmr,barang_bukti,"Beberapa klip/plastik sabu total 4,87 gram (1,55	1,17	1,81	0,09	0,15	 0,10)	 1 HP Oppo",Hal. 32,Kelompok_UTS,,BELUM_DIVERIFIKASI
+239/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 32,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+239/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+239/Pid.Sus/2026/PN Jmr,nama_hakim,"I Gusti Ngurah Taruna W (Ketua)	 Aryo Widiatmoko, Amran S. Herman (Anggota)",Hal. 33,Kelompok_UTS,,BELUM_DIVERIFIKASI
+239/Pid.Sus/2026/PN Jmr,nama_jaksa,Noviana Hermawati,Hal. 33,Kelompok_UTS,,BELUM_DIVERIFIKASI
+239/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-08-03,Hal. 33,Kelompok_UTS,,BELUM_DIVERIFIKASI
+239/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+239/Pid.Sus/2026/PN Jmr,catatan,"Vonis: tanpa hak menguasai Narkotika Gol I (dakwaan kedua)	 perkara terkait nomor 240	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+240/Pid.Sus/2026/PN Jmr,nomor_perkara,240/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+240/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_27,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+240/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 28,Kelompok_UTS,,BELUM_DIVERIFIKASI
+240/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (1) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026,Hal. 28,Kelompok_UTS,,BELUM_DIVERIFIKASI
+240/Pid.Sus/2026/PN Jmr,tuntutan_bulan,48,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+240/Pid.Sus/2026/PN Jmr,vonis_bulan,24,Hal. 28,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+240/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 28,Kelompok_UTS,,DIISI_MANUAL
+240/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 28,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+240/Pid.Sus/2026/PN Jmr,barang_bukti,"Sama dengan perkara Seniri (4,87 gram sabu, 1 HP Oppo)	 dipergunakan dalam perkara atas nama Seniri",Hal. 28,Kelompok_UTS,,BELUM_DIVERIFIKASI
+240/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 28,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+240/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+240/Pid.Sus/2026/PN Jmr,nama_hakim,"I Gusti Ngurah Taruna W (Ketua)	 Aryo Widiatmoko, Amran S. Herman (Anggota)",Hal. 29,Kelompok_UTS,,BELUM_DIVERIFIKASI
+240/Pid.Sus/2026/PN Jmr,nama_jaksa,Noviana Hermawati,Hal. 29,Kelompok_UTS,,BELUM_DIVERIFIKASI
+240/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-08-03,Hal. 29,Kelompok_UTS,,BELUM_DIVERIFIKASI
+240/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+240/Pid.Sus/2026/PN Jmr,catatan,"Vonis dari dakwaan alternatif kesatu	 perkara terkait nomor 239	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+253/Pid.Sus/2026/PN Jmr,nomor_perkara,253/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+253/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_28,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+253/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 35,Kelompok_UTS,,BELUM_DIVERIFIKASI
+253/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (1) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026	 dan Pasal 435 UU No 17 Tahun 2023 (Kesehatan),Hal. 35,Kelompok_UTS,,BELUM_DIVERIFIKASI
+253/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+253/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 35,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+253/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 35,Kelompok_UTS,,DIISI_MANUAL
+253/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 35,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+253/Pid.Sus/2026/PN Jmr,barang_bukti,"1 klip sabu 3,62 gram	 kotak kardus Ampo	 sekitar 20.000 butir obat keras jenis trex (kaleng)	 1 kresek merah	 1 HP Oppo Reno 15",Hal. 35,Kelompok_UTS,,BELUM_DIVERIFIKASI
+253/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 35,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+253/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+253/Pid.Sus/2026/PN Jmr,nama_hakim,"Amran S. Herman (Ketua)	 I Gusti Ngurah Taruna W, Aryo Widiatmoko (Anggota)",Hal. 36,Kelompok_UTS,,BELUM_DIVERIFIKASI
+253/Pid.Sus/2026/PN Jmr,nama_jaksa,Endah Puspitorini,Hal. 36,Kelompok_UTS,,BELUM_DIVERIFIKASI
+253/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-08-03,Hal. 36,Kelompok_UTS,,BELUM_DIVERIFIKASI
+253/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+253/Pid.Sus/2026/PN Jmr,catatan,"Dakwaan kumulatif	 bebas dari dakwaan primair Pasal 114 ayat (1)	 terbukti menguasai narkotika dan mengedarkan sediaan farmasi tidak memenuhi standar	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+271/Pid.Sus/2026/PN Jmr,nomor_perkara,271/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+271/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_29,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+271/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 38,Kelompok_UTS,,BELUM_DIVERIFIKASI
+271/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009 jo UU No 1 Tahun 2026,Hal. 38,Kelompok_UTS,,BELUM_DIVERIFIKASI
+271/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+271/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 38,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+271/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 38,Kelompok_UTS,,DIISI_MANUAL
+271/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 38,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+271/Pid.Sus/2026/PN Jmr,barang_bukti,"1 klip sabu 0,12 gram	 1 pipet kaca sabu 2,24 gram (kotor)	 1 tas punggung	 1 HP Redmi	 uang Rp100.000",Hal. 38,Kelompok_UTS,,BELUM_DIVERIFIKASI
+271/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 38,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+271/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+271/Pid.Sus/2026/PN Jmr,nama_hakim,"Aryo Widiatmoko (Ketua)	 I Gusti Ngurah Taruna W, Amran S. Herman (Anggota)",Hal. 39,Kelompok_UTS,,BELUM_DIVERIFIKASI
+271/Pid.Sus/2026/PN Jmr,nama_jaksa,Adik Sri Sumarsih,Hal. 39,Kelompok_UTS,,BELUM_DIVERIFIKASI
+271/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-08-03,Hal. 39,Kelompok_UTS,,BELUM_DIVERIFIKASI
+271/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+271/Pid.Sus/2026/PN Jmr,catatan,"Dakwaan alternatif kesatu (menjual/perantara)	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+272/Pid.Sus/2026/PN Jmr,nomor_perkara,272/Pid.Sus/2026/PN Jmr,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+272/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_30,Hal. 1,Kelompok_UTS,,BELUM_DIVERIFIKASI
+272/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,Hal. 20,Kelompok_UTS,,BELUM_DIVERIFIKASI
+272/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (1) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026,Hal. 20,Kelompok_UTS,,BELUM_DIVERIFIKASI
+272/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,Hal. 2,Kelompok_UTS,,BELUM_DIVERIFIKASI
+272/Pid.Sus/2026/PN Jmr,vonis_bulan,60,Hal. 20,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+272/Pid.Sus/2026/PN Jmr,denda,5000,Hal. 20,Kelompok_UTS,,DIISI_MANUAL
+272/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,Hal. 20,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+272/Pid.Sus/2026/PN Jmr,barang_bukti,"1 klip sabu 0,07 gram	 1 HP Tecno Spark",Hal. 20,Kelompok_UTS,,BELUM_DIVERIFIKASI
+272/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 20,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+272/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Kelompok_UTS,Claude (cek ke PDF),VERIFIED_PDF
+272/Pid.Sus/2026/PN Jmr,nama_hakim,"Aryo Widiatmoko (Ketua)	 I Gusti Ngurah Taruna W, Amran S. Herman (Anggota)",Hal. 20,Kelompok_UTS,,BELUM_DIVERIFIKASI
+272/Pid.Sus/2026/PN Jmr,nama_jaksa,Adik Sri Sumarsih,Hal. 20,Kelompok_UTS,,BELUM_DIVERIFIKASI
+272/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-08-03,Hal. 20,Kelompok_UTS,,BELUM_DIVERIFIKASI
+272/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+272/Pid.Sus/2026/PN Jmr,catatan,"Dakwaan alternatif kedua	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+278/Pid.Sus/2026/PN Jmr,nomor_perkara,278/Pid.Sus/2026/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_31,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009 jo UU No 1 Tahun 2026,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,tuntutan_bulan,84,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,vonis_bulan,60,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,denda,5000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,barang_bukti,"2 klip sabu total 0,24 gram (0,15+0,09)	 1 HP Itel A70",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,nama_hakim,"Amran S. Herman (Ketua)	 Aryo Widiatmoko, I Gusti Ngurah Taruna W (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,nama_jaksa,Gunawan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-08-03,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+278/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+278/Pid.Sus/2026/PN Jmr,catatan,"Vonis: perantara jual beli Narkotika Gol I	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+324/Pid.Sus/2026/PN Jmr,nomor_perkara,324/Pid.Sus/2026/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_32,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009 jo UU No 1 Tahun 2026,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,tuntutan_bulan,96,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,vonis_bulan,90,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,denda,5000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,barang_bukti,"1 klip sabu 4,83 gram	 1 HP Vivo Y33",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,nama_hakim,"I Gusti Ngurah Taruna W (Ketua)	 Amran S. Herman, Aryo Widiatmoko (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,nama_jaksa,Adik Sri Sumarsih,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-09-07,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+324/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+324/Pid.Sus/2026/PN Jmr,catatan,"Vonis 7 th 6 bln	 perantara jual beli	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+325/Pid.Sus/2026/PN Jmr,nomor_perkara,325/Pid.Sus/2026/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_33,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU RI No 35 Tahun 2009 jo UU No 1 Tahun 2026,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,tuntutan_bulan,90,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,vonis_bulan,84,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,denda,5000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,barang_bukti,"2 klip sabu @0,18 gram (0,36)	 1 klip sabu 4,28 gram	 timbangan digital	 1 pack klip	 1 amplop	 uang Rp600.000	 2 HP (Vivo, Realme)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,nama_hakim,"I Gusti Ngurah Taruna W (Ketua)	 Aryo Widiatmoko, Amran S. Herman (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,nama_jaksa,Adik Sri Sumarsih,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-09-07,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+325/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+325/Pid.Sus/2026/PN Jmr,catatan,"2 terdakwa (Eko Prasetyo & Moch. Misbahul Ulum)	 vonis masing-masing 7 th (tuntutan 7 th 6 bln)	 tanpa hak membeli Narkotika Gol I	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+328/Pid.Sus/2026/PN Jmr,nomor_perkara,328/Pid.Sus/2026/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_34,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009 jo UU No 1 Tahun 2026,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,vonis_bulan,66,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,denda,5000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,barang_bukti,"2 klip sabu total 0,34 gram (2x0,17)	 2 potong sedotan hitam	 HP Redmi Note 10",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,nama_hakim,"Aryo Widiatmoko (Ketua)	 I Gusti Ngurah Taruna W, Amran S. Herman (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,nama_jaksa,Apriani Candra Christina,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-09-07,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+328/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+328/Pid.Sus/2026/PN Jmr,catatan,"Perantara jual beli (dakwaan alternatif kesatu)	 vonis 5 th 6 bln	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+295/Pid.Sus/2026/PN Jmr,nomor_perkara,295/Pid.Sus/2026/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_35,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (1) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,tuntutan_bulan,48,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,vonis_bulan,60,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,denda,5000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,barang_bukti,"1 klip sabu 0,14 gram (netto lab 0,088 gram)	 1 bungkus rokok Surya	 1 sedotan biru",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,nama_hakim,"Dina Pelita Asmara (Ketua)	 Desbertua Naibaho, Irwansyah (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,nama_jaksa,Natty Ayuningdiastuti Arif,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-09-09,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+295/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+295/Pid.Sus/2026/PN Jmr,catatan,"Vonis lebih berat dari tuntutan (5 th vs 4 th)	 denda tidak dijatuhkan karena terdakwa dinilai tidak mampu	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+327/Pid.Sus/2026/PN Jmr,nomor_perkara,327/Pid.Sus/2026/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_36,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009 jo UU No 1 Tahun 2026,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,tuntutan_bulan,96,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,vonis_bulan,72,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,denda,5000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,barang_bukti,"1 klip sabu 2,84 gram	 1 timbangan digital	 1 HP Vivo",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,nama_hakim,"Ade Irma Susanti (Ketua)	 Ratna Damayanti Wisudha, Zamzam Ilmi (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,nama_jaksa,Anak Agung Gede Hendrawan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-09-15,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+327/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+327/Pid.Sus/2026/PN Jmr,catatan,"Vonis: jual beli Narkotika Gol I (dakwaan alternatif kesatu)	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+343/Pid.Sus/2026/PN Jmr,nomor_perkara,343/Pid.Sus/2026/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_37,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (1) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026 jo Pasal 132 ayat (1) UU No 35 Tahun 2009,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,vonis_bulan,48,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,denda,5000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,barang_bukti,"3 klip sabu total 0,10 gram (0,02+0,03+0,05)	 timbangan digital	 2 HP (Oppo, Redmi)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,nama_hakim,"Ade Irma Susanti (Ketua)	 Zamzam Ilmi, Ratna Damayanti Wisudha (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,nama_jaksa,Endah Puspitorini,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-09-15,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+343/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+343/Pid.Sus/2026/PN Jmr,catatan,"2 terdakwa (Setiawan Bin Samikollah & Arief Windar Prasetyo)	 pemufakatan jahat menyediakan narkotika	 vonis masing-masing 4 th (tuntutan 6 th)	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+330/Pid.Sus/2026/PN Jmr,nomor_perkara,330/Pid.Sus/2026/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_38,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (1) huruf a UU No 1 Tahun 2023 (KUHP) jo Pasal VII angka 50 UU No 1 Tahun 2026	 dan Pasal 435 UU No 17 Tahun 2023 (Kesehatan),-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,tuntutan_bulan,78,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,vonis_bulan,78,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,denda,5000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,barang_bukti,"1 klip sabu 0,05 gram	 timbangan digital	 sedikitnya 362 butir obat berlogo Y (175+120+67+...)	 2 HP (Samsung, Oppo)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,nama_hakim,"Desbertua Naibaho (Ketua)	 Dina Pelita Asmara, Irwansyah (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,nama_jaksa,Natty Ayuningdiastuti Arif,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-09-16,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+330/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+330/Pid.Sus/2026/PN Jmr,catatan,"Bebas dari dakwaan kesatu primair	 terbukti menguasai narkotika dan mengedarkan sediaan farmasi tidak memenuhi standar	 vonis 6 th 6 bln	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+348/Pid.Sus/2026/PN Jmr,nomor_perkara,348/Pid.Sus/2026/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_39,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009 jo UU No 1 Tahun 2026,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,tuntutan_bulan,72,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,vonis_bulan,60,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,denda,5000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,barang_bukti,"1 klip sabu 0,10 gram	 HP Redmi 9A",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,nama_hakim,"Amran S. Herman (Ketua)	 I Gusti Ngurah Taruna W, Aryo Widiatmoko (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,nama_jaksa,Adik Sri Sumarsih,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-10-05,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+348/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+348/Pid.Sus/2026/PN Jmr,catatan,"Perantara jual beli (dakwaan alternatif kesatu)	 tanggal musyawarah di dokumen tertulis tanpa tahun	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+379/Pid.Sus/2026/PN Jmr,nomor_perkara,379/Pid.Sus/2026/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_40,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,pasal,Pasal 114 ayat (2) UU RI No 35 Tahun 2009 jo UU No 1 Tahun 2026,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,tuntutan_bulan,96,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,vonis_bulan,78,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,denda,5000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,barang_bukti,"Sabu total 25,21 gram (a.l. 23,78 g)	 3 butir ekstasi 1,23 gram	 timbangan digital	 2 pak plastik	 HP Vivo	 buku catatan	 uang Rp100.000.000",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,nama_hakim,"Amran S. Herman (Ketua)	 Aryo Widiatmoko, I Gusti Ngurah Taruna W (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,nama_jaksa,Helmi Wahyu Hutama,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-10-05,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+379/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+379/Pid.Sus/2026/PN Jmr,catatan,"Vonis: menjual narkotika > 5 gram (dakwaan alternatif pertama)	 vonis 6 th 6 bln	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+356/Pid.Sus/2026/PN Jmr,nomor_perkara,356/Pid.Sus/2026/PN Jmr,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,nama_terdakwa,Terdakwa_41,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,jenis_kejahatan,Narkotika,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,pasal,Pasal 609 ayat (2) huruf a UU No 1 Tahun 2023 (KUHP) jo UU No 1 Tahun 2026,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,tuntutan_bulan,96,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,vonis_bulan,84,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,denda,5000,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,subsidair_bulan,0,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,barang_bukti,"Sabu total 15,24 gram (17+10+7 klip + 1 plastik 2,93 g)	 17 potong sedotan hijau	 celana	 tas	 iPhone 13",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,status_penahanan,Tetap ditahan di Rutan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,nama_hakim,"Dina Pelita Asmara (Ketua)	 Irwansyah, Desbertua Naibaho (Anggota)",-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,nama_jaksa,Anak Agung Gede Hendrawan,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,tanggal_putusan,2026-10-07,-,Kelompok_UTS,,BELUM_DIVERIFIKASI
+356/Pid.Sus/2026/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Kelompok_UTS,,DIISI_MANUAL
+356/Pid.Sus/2026/PN Jmr,catatan,"Berat > 5 gram	 vonis: tanpa hak menguasai (dakwaan alternatif kedua)	 denda diisi manual Rp5.000 (permintaan pengguna	 putusan tidak menjatuhkan denda, Rp5.000 adalah biaya perkara)",-,Kelompok_UTS,,DIISI_MANUAL
+461/Pid.Sus/2025/PN Jmr,nomor_perkara,461/Pid.Sus/2025/PN Jmr,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_42,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009 jo Pasal 132 ayat (1) UU RI No 35 Tahun 2009,Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,tuntutan_bulan,84,Hal. 2,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,vonis_bulan,78,Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,denda,1000000000,Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,subsidair_bulan,4,Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,barang_bukti,"1 klip sabu 0,26 gram	 1 kotak tusuk gigi	 1 helm bogo hitam	 2 HP Oppo (A38 dan satu lainnya)",Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,nama_hakim,"I Gusti Ngurah Taruna W (Ketua)	 Aryo Widiatmoko, Amran S. Herman (Anggota)",Hal. 24,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,nama_jaksa,Gunawan,Hal. 24,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-08,Hal. 24,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Claude (dari PDF),,DIISI_MANUAL
+461/Pid.Sus/2025/PN Jmr,catatan,"Terdakwa 1 dari 2 terdakwa	 permufakatan jahat membeli/perantara jual beli Narkotika Gol I (dakwaan pertama)	 tuntutan subsidair 6 bln, vonis subsidair 4 bln",-,Claude (dari PDF),,DIISI_MANUAL
+461/Pid.Sus/2025/PN Jmr,nomor_perkara,461/Pid.Sus/2025/PN Jmr,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_43,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009 jo Pasal 132 ayat (1) UU RI No 35 Tahun 2009,Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,tuntutan_bulan,84,Hal. 2,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,vonis_bulan,78,Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,denda,1000000000,Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,subsidair_bulan,4,Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,barang_bukti,"1 klip sabu 0,26 gram	 1 kotak tusuk gigi	 1 helm bogo hitam	 2 HP Oppo (A38 dan satu lainnya)",Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 23,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,nama_hakim,"I Gusti Ngurah Taruna W (Ketua)	 Aryo Widiatmoko, Amran S. Herman (Anggota)",Hal. 24,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,nama_jaksa,Gunawan,Hal. 24,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-08,Hal. 24,Claude (dari PDF),,VERIFIED_PDF
+461/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Claude (dari PDF),,DIISI_MANUAL
+461/Pid.Sus/2025/PN Jmr,catatan,"Terdakwa 2 dari 2 terdakwa	 permufakatan jahat membeli/perantara jual beli Narkotika Gol I (dakwaan pertama)	 tuntutan subsidair 6 bln, vonis subsidair 4 bln",-,Claude (dari PDF),,DIISI_MANUAL
+468/Pid.Sus/2025/PN Jmr,nomor_perkara,468/Pid.Sus/2025/PN Jmr,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_44,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,pasal,Pasal 114 ayat (1) UU RI No 35 Tahun 2009,Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,tuntutan_bulan,72,Hal. 2,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,vonis_bulan,60,Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,denda,1000000000,Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,subsidair_bulan,2,Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,barang_bukti,"Sabu total 0,77 gram (0,45+2x0,06+5x0,04 dalam klip)	 1 tas hitam	 1 bungkus kaleng rokok Dji Sam Soe	 1 timbangan digital	 1 serokan plastik	 1 HP Samsung",Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,nama_hakim,"I Gusti Ngurah Taruna W (Ketua)	 Aryo Widiatmoko, Amran S. Herman (Anggota)",Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,nama_jaksa,Anak Agung Gede Hendrawan,Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-01,Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+468/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Claude (dari PDF),,DIISI_MANUAL
+468/Pid.Sus/2025/PN Jmr,catatan,"Perantara jual beli (dakwaan alternatif kesatu)	 tuntutan subsidair 3 bln, vonis subsidair 2 bln",-,Claude (dari PDF),,DIISI_MANUAL
+470/Pid.Sus/2025/PN Jmr,nomor_perkara,470/Pid.Sus/2025/PN Jmr,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_45,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,tuntutan_bulan,60,Hal. 2,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,vonis_bulan,57,Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,denda,1000000000,Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,barang_bukti,"Sabu total 1,86 gram (4 klip @0,42 + 1 klip 0,18)	 1 bungkus rokok Surya	 1 lembar tisu	 1 HP Oppo A3s",Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 19,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,nama_hakim,"Irwansyah (Ketua)	 Dina Pelita Asmara, Desbertua Naibaho (Anggota)",Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,nama_jaksa,Helmi Wahyu Hutama,Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-03,Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+470/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Claude (dari PDF),,DIISI_MANUAL
+470/Pid.Sus/2025/PN Jmr,catatan,"Vonis: tanpa hak menguasai Narkotika Gol I (dakwaan alternatif kedua)	 vonis 4 th 9 bln	 jaksa menuntut denda Rp800 juta, hakim menjatuhkan Rp1 miliar	 musyawarah 1 Des 2025, diucapkan 3 Des 2025",-,Claude (dari PDF),,DIISI_MANUAL
+477/Pid.Sus/2025/PN Jmr,nomor_perkara,477/Pid.Sus/2025/PN Jmr,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_46,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,Hal. 16,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (2) UU RI No 35 Tahun 2009,Hal. 16,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,tuntutan_bulan,96,Hal. 2,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,vonis_bulan,78,Hal. 16,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,denda,1000000000,Hal. 16,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,Hal. 16,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,barang_bukti,"Sabu total 6,61 gram (8 klip)	 1 kotak rokok Dji Sam Soe	 1 timbangan digital Camry	 1 pack plastik kosong	 1 serokan plastik	 1 HP Redmi 14C",Hal. 16,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 16,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,nama_hakim,"Dina Pelita Asmara (Ketua)	 Irwansyah, Desbertua Naibaho (Anggota)",Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,nama_jaksa,Muhammad Jufri,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-10,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+477/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Claude (dari PDF),,DIISI_MANUAL
+477/Pid.Sus/2025/PN Jmr,catatan,Berat > 5 gram	 vonis: tanpa hak menguasai (dakwaan kedua)	 jaksa menuntut Pasal 112 ayat (1) 8 th	 vonis 6 th 6 bln,-,Claude (dari PDF),,DIISI_MANUAL
+484/Pid.Sus/2025/PN Jmr,nomor_perkara,484/Pid.Sus/2025/PN Jmr,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_47,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,tuntutan_bulan,84,Hal. 2,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,vonis_bulan,72,Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,denda,800000000,Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,subsidair_bulan,4,Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,barang_bukti,"Sabu total 0,32 gram (2 klip: 0,04+0,28)	 1 HP Samsung J5",Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,nama_hakim,"I Gusti Ngurah Taruna W (Ketua)	 Aryo Widiatmoko, Amran S. Herman (Anggota)",Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,nama_jaksa,Adik Sri Sumarsih,Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-08,Hal. 20,Claude (dari PDF),,VERIFIED_PDF
+484/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Claude (dari PDF),,DIISI_MANUAL
+484/Pid.Sus/2025/PN Jmr,catatan,"Vonis: tanpa hak menguasai Narkotika Gol I (dakwaan kedua)	 tuntutan subsidair 6 bln, vonis subsidair 4 bln",-,Claude (dari PDF),,DIISI_MANUAL
+491/Pid.Sus/2025/PN Jmr,nomor_perkara,491/Pid.Sus/2025/PN Jmr,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_48,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,tuntutan_bulan,72,Hal. 2,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,vonis_bulan,54,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,denda,800000000,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,barang_bukti,"1 klip sabu 0,16 gram	 1 lembar tisu	 1 tas pink	 1 HP Samsung A33",Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,nama_hakim,"Aryo Widiatmoko (Ketua)	 I Gusti Ngurah Taruna W, Amran S. Herman (Anggota)",Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,nama_jaksa,Rismaya Cobhita Arethusa,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-15,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+491/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Claude (dari PDF),,DIISI_MANUAL
+491/Pid.Sus/2025/PN Jmr,catatan,"Vonis: tanpa hak menguasai Narkotika Gol I (dakwaan alternatif kedua)	 musyawarah 12 Des 2025, diucapkan 15 Des 2025	 vonis 4 th 6 bln",-,Claude (dari PDF),,DIISI_MANUAL
+498/Pid.Sus/2025/PN Jmr,nomor_perkara,498/Pid.Sus/2025/PN Jmr,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_49,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,pasal,Pasal 111 ayat (2) UU RI No 35 Tahun 2009,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,tuntutan_bulan,96,Hal. 2,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,vonis_bulan,60,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,denda,1000000000,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,subsidair_bulan,6,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,barang_bukti,"6 pohon ganja	 1 bungkus daun ganja kering 0,83 gram	 1 pak kertas papir	 1 HP Realme",Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 17,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,nama_hakim,"Zamzam Ilmi (Ketua)	 Amran S. Herman, Rudi Hartoyo (Anggota)",Hal. 18,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,nama_jaksa,Rismaya Cobhita Arethusa,Hal. 18,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-23,Hal. 18,Claude (dari PDF),,VERIFIED_PDF
+498/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Claude (dari PDF),,DIISI_MANUAL
+498/Pid.Sus/2025/PN Jmr,catatan,"Narkotika Gol I bentuk tanaman (ganja) > 5 batang pohon: menanam dan memiliki (dakwaan alternatif kedua)	 musyawarah 18 Des 2025, diucapkan 23 Des 2025	 daftar anggota majelis di bagian akhir tidak konsisten (Ratna Damayanti Wisudha disebut saat pengucapan)",-,Claude (dari PDF),,DIISI_MANUAL
+508/Pid.Sus/2025/PN Jmr,nomor_perkara,508/Pid.Sus/2025/PN Jmr,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_50,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,Hal. 28,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009	 Pasal 111 ayat (1) UU RI No 35 Tahun 2009	 dan Pasal 435 UU No 17 Tahun 2023 (Kesehatan),Hal. 28,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,tuntutan_bulan,102,Hal. 2,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,vonis_bulan,90,Hal. 28,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,denda,1000000000,Hal. 28,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,Hal. 28,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,barang_bukti,"32 kaleng (32.000 butir) obat putih berlogo Y	 daun ganja kering 3,69 gram	 1 klip sabu 0,05 gram	 2 HP Samsung",Hal. 28,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 28,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,nama_hakim,"Rudi Hartoyo (Ketua)	 Zamzam Ilmi, I Gusti Ngurah Taruna W (Anggota)",Hal. 29,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,nama_jaksa,Gunawan,Hal. 29,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-16,Hal. 29,Claude (dari PDF),,VERIFIED_PDF
+508/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Claude (dari PDF),,DIISI_MANUAL
+508/Pid.Sus/2025/PN Jmr,catatan,"Dakwaan kombinasi subsidaritas dan kumulatif	 bebas dari dakwaan primair	 terbukti menguasai sabu, memiliki ganja, dan mengedarkan sediaan farmasi tidak memenuhi standar	 jaksa menuntut denda Rp1 miliar subsidair 6 bln	 musyawarah 15 Des 2025, diucapkan 16 Des 2025	 vonis 7 th 6 bln",-,Claude (dari PDF),,DIISI_MANUAL
+517/Pid.Sus/2025/PN Jmr,nomor_perkara,517/Pid.Sus/2025/PN Jmr,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_51,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,Hal. 15,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,pasal,Pasal 112 ayat (1) UU RI No 35 Tahun 2009,Hal. 15,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,tuntutan_bulan,66,Hal. 2,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,vonis_bulan,51,Hal. 15,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,denda,800000000,Hal. 15,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,subsidair_bulan,3,Hal. 15,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,barang_bukti,"1 klip sabu sekitar 0,72 gram	 1 bungkusan bekas gunting	 1 HP Redmi 13C",Hal. 15,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 15,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,nama_hakim,"Amran S. Herman (Ketua)	 Aryo Widiatmoko, I Gusti Ngurah Taruna W (Anggota)",Hal. 15,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,nama_jaksa,Gunawan,Hal. 15,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-08,Hal. 15,Claude (dari PDF),,VERIFIED_PDF
+517/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Claude (dari PDF),,DIISI_MANUAL
+517/Pid.Sus/2025/PN Jmr,catatan,"Vonis: tanpa hak menyediakan Narkotika Gol I	 jaksa menuntut denda Rp400 juta subsidair 3 bln, hakim menjatuhkan Rp800 juta	 vonis 4 th 3 bln",-,Claude (dari PDF),,DIISI_MANUAL
+518/Pid.Sus/2025/PN Jmr,nomor_perkara,518/Pid.Sus/2025/PN Jmr,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,nama_terdakwa,Terdakwa_52,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,jenis_kejahatan,Narkotika,Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,pasal,Pasal 114 ayat (2) UU RI No 35 Tahun 2009,Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,tuntutan_bulan,144,Hal. 2,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,vonis_bulan,120,Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,denda,1000000000,Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,subsidair_bulan,6,Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,barang_bukti,"4 klip sabu total sekitar 43,56 gram (24,12+16,42+2,06+0,96)	 1 timbangan digital	 1 serok plastik	 beberapa klip plastik kecil	 1 HP Itel P55",Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,status_penahanan,Tetap ditahan di Rutan,Hal. 21,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,tingkat_pengadilan,Pengadilan Negeri Jember,Hal. 1,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,nama_hakim,"Amran S. Herman (Ketua)	 I Gusti Ngurah Taruna W, Aryo Widiatmoko (Anggota)",Hal. 22,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,nama_jaksa,Gunawan,Hal. 22,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,tanggal_putusan,2025-12-08,Hal. 22,Claude (dari PDF),,VERIFIED_PDF
+518/Pid.Sus/2025/PN Jmr,status_eksekusi,Belum diketahui (putusan tingkat pertama),-,Claude (dari PDF),,DIISI_MANUAL
+518/Pid.Sus/2025/PN Jmr,catatan,"Berat > 5 gram	 vonis: tanpa hak menjual Narkotika Gol I (dakwaan pertama)	 tuntutan 12 th, vonis 10 th",-,Claude (dari PDF),,DIISI_MANUAL
